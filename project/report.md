@@ -6,7 +6,7 @@
 I had to make all of the predictions positive (or 0) to submit the results.
 
 ### What was the top ranked model that performed?
-The top ranked model was KNeighborsUnif_BAG_L1, with a scroe of 0.103458, followed closely by KNeighborsDist_BAG_L1, with a score of 0.105236
+The top ranked model was WeightedEnsemble_L3, with a scroe of 39.193494.
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?

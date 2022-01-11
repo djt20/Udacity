@@ -22,12 +22,14 @@ After I added a linear model to autogluon (HPO1), the model obtained a score of 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 I would spend more time changing the hyperparameters by investigating which are the best models, and adding in different options for those.
 
-<!--- ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-%|model|hpo1|hpo2|hpo3|score|
+### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+|model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
 |initial|?|?|?|?|
 |add_features|?|?|?|?|
-|hpo|?|?|?|?| --->
+|hpo|?|?|?|?| 
+
+
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 

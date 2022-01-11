@@ -25,10 +25,11 @@ I would spend more time changing the hyperparameters by investigating which are 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?| 
-
+|initial|default|default|default|-114.889718|
+|add_features|default|default|default|-36.109662|
+|hpo1|Linear regression added| | | -36.045834 | 
+|hpo2|Linear regression added|GBM max_depth 3,4,5||-38.867982|
+|hpo3|Linear regression added|GBM max_depth 3,4,5|cat depth 6,7,8,9,10|-39.234103|
 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.

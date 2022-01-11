@@ -40,4 +40,4 @@ I would spend more time changing the hyperparameters by investigating which are 
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-To summarise, in this project, I developed an autogluon model based on a bike-sharing dataset from kaggle. I began by building a basic model, and then improved the model by adding a new feature, and then performed some hyper-parameter optimization (by adding a different model type, then by adding additional parameters to the GBM model, and, finally, by adding more parameters to the CAT model. The best score I obtained was 0.4455.
+To summarise, in this project, I developed an autogluon model based on a bike-sharing dataset from kaggle. I began by building a basic model, and then improved the model by adding a new feature, and then performed some hyper-parameter optimization (by adding a different model type, then by adding additional parameters to the GBM model, and, finally, by adding more parameters to the CAT model. The best score I obtained was 0.4455. 
